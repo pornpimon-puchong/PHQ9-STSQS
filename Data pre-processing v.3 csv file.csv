@@ -1,0 +1,212 @@
+Faculty,Major,Year,Age,P-Score,S-Score,Depression Diagnosis,SQS,Sleep Diagnosis
+School of Informatics,ITD,3,21,4,7,Minimum Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT,3,21,22,7,Serve Depression,Good sleep quality,Mild
+School of Agricultural Technology and Food Industry,Food Sci,3,21,9,6,Mild Depression,Fair sleep quality,Moderate
+School of Science,Bio,3,21,5,6,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,2,20,13,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,20,10,2,Mild Depression,Poor sleep quality,Moderately Serve
+School of Science,Math,3,20,11,6,Mild Depression,Fair sleep quality,Moderate
+School of Science,Chem,3,21,9,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Science,Sci,1,19,17,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,3,21,20,6,Serve Depression,Fair sleep quality,Moderate
+School of Science,Sci,1,18,7,8,Minimum Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT,3,22,5,4,Minimum Depression,Fair sleep quality,Moderate
+School of Science,Sci,1,19,14,7,Modereate Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,20,15,7,Modereate Depression,Good sleep quality,Mild
+School of Science,Math,3,21,6,5,Minimum Depression,Fair sleep quality,Moderate
+School of Science,Sci,1,19,9,8,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,4,22,5,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,20,3,8,Minimum Depression,Good sleep quality,Mild
+School of Science,Sci,1,19,12,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Informatics,DCM,3,21,20,9,Serve Depression,Good sleep quality,Mild
+School of Political Science and laws,POS,2,21,3,8,Minimum Depression,Good sleep quality,Mild
+School of Public Health,OCC,3,20,9,8,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,19,18,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,ITD,3,21,13,8,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,21,8,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,ITD,3,21,8,1,Minimum Depression,Poor sleep quality,Moderately Serve
+School of Pharmacy,Pharm,3,20,8,4,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,2,20,7,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,21,17,6,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,ITD,1,19,23,5,Serve Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,3,21,3,5,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,19,1,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,DCA,2,20,3,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,19,2,8,Minimum Depression,Good sleep quality,Mild
+School of Liberal Art,Chinese,4,21,3,8,Minimum Depression,Good sleep quality,Mild
+School of Informatics,DCA,3,21,9,7,Mild Depression,Good sleep quality,Mild
+School of Engineering and Technology,EE,3,21,10,8,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI ,3,21,5,5,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,ITD,3,21,24,8,Serve Depression,Good sleep quality,Mild
+School of Informatics,IMI,4,21,4,9,Minimum Depression,Good sleep quality,Mild
+School of Liberal Art,N/A,2,19,5,5,Minimum Depression,Fair sleep quality,Moderate
+School of Nursing,Nursing,3,21,13,7,Mild Depression,Good sleep quality,Mild
+School of Accountancy and Finance,Acct ,2,20,16,1,Modereate Depression,Poor sleep quality,Moderately Serve
+School of Nursing,Nursing,4,21,2,7,Minimum Depression,Good sleep quality,Mild
+School of Public Health,ENH,3,20,9,7,Mild Depression,Good sleep quality,Mild
+School of Law,Law,2,20,15,4,Modereate Depression,Fair sleep quality,Moderate
+School of Liberal Art,English,2,19,10,6,Mild Depression,Fair sleep quality,Moderate
+International College,BA,1,21,7,5,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,1,19,8,7,Minimum Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT Inter,2,19,0,6,Minimum Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT,3,21,3,7,Minimum Depression,Good sleep quality,Mild
+School of Liberal Art,English,1,19,3,3,Minimum Depression,Poor sleep quality,Moderately Serve
+School of Medicine,SES,2,20,1,7,Minimum Depression,Good sleep quality,Mild
+School of Accountancy and Finance,Bus & Fin,1,19,0,0,Minimum Depression,Terrible quality,Serve
+School of Informatics,MTA,1,18,25,1,Serve Depression,Poor sleep quality,Moderately Serve
+School of Informatics,COMM ARTS,1,19,10,6,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,1,19,17,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,MTA,1,19,8,4,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,MTA,1,19,11,0,Mild Depression,Terrible quality,Serve
+International College of Dentistry,WUICD,1,18,14,4,Modereate Depression,Fair sleep quality,Moderate
+International College of Dentistry,WUICD,1,18,8,6,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,MTA,1,19,15,0,Modereate Depression,Terrible quality,Serve
+School of Informatics,MTA,1,19,16,5,Modereate Depression,Fair sleep quality,Moderate
+School of Law,Law,3,21,7,4,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,ITD,3,21,10,7,Mild Depression,Good sleep quality,Mild
+School of Public Health,OCC,3,21,2,7,Minimum Depression,Good sleep quality,Mild
+School of Science,Sci,3,21,6,8,Minimum Depression,Good sleep quality,Mild
+School of Informatics,DCA,2,20,18,4,Modereate Depression,Fair sleep quality,Moderate
+Akkhraratchakumari Veterinary College,Vet,1,20,18,7,Modereate Depression,Good sleep quality,Mild
+School of Architecture and Design,Arch,3,21,20,6,Serve Depression,Fair sleep quality,Moderate
+School of Nursing,Nursing,3,20,9,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,2,20,18,8,Modereate Depression,Good sleep quality,Mild
+School of Informatics,IMI,2,19,8,10,Minimum Depression,Excellent,None
+School of Informatics,IMI,2,20,11,5,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,2,20,18,6,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,2,20,19,5,Moderately Severe Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,2,20,27,0,Serve Depression,Terrible quality,Serve
+School of Informatics,ITD,2,20,17,6,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,2,20,9,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,DCM,2,19,17,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,3,21,3,9,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,21,13,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,18,6,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,19,15,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,20,7,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,18,4,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,19,10,4,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,2,20,14,4,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,19,17,6,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,18,20,4,Serve Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,2,20,9,6,Mild Depression,Fair sleep quality,Moderate
+International College,BA,1,19,13,2,Mild Depression,Poor sleep quality,Moderately Serve
+International College,BA,4,19,18,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,DCM ,2,19,18,4,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,19,7,8,Minimum Depression,Good sleep quality,Mild
+School of Liberal Art,English,3,20,4,8,Minimum Depression,Good sleep quality,Mild
+School of Management,PCA,2,21,15,6,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,18,10,8,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,19,12,8,Mild Depression,Good sleep quality,Mild
+School of Informatics,DCA,1,20,16,,Modereate Depression,Terrible quality,Serve
+School of Allied Health Sciences,MT Inter,2,20,6,8,Minimum Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT Inter,1,19,4,6,Minimum Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT Inter,1,19,3,6,Minimum Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT Inter,2,20,12,5,Mild Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT Inter,2,20,20,3,Serve Depression,Poor sleep quality,Moderately Serve
+School of Allied Health Sciences,MT Inter,2,20,3,8,Minimum Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT,2,20,6,6,Minimum Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT,2,20,0,0,Minimum Depression,Terrible quality,Serve
+School of Allied Health Sciences,MT Inter,1,18,11,4,Mild Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT Inter,2,20,9,8,Mild Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT Inter,1,18,16,6,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,3,20,3,4,Minimum Depression,Fair sleep quality,Moderate
+School of Architecture and Design,INT,1,18,11,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Informatics,IMI,4,21,5,4,Minimum Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT,2,19,7,0,Minimum Depression,Terrible quality,Serve
+School of Informatics,MTA,3,21,12,5,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,DIM,4,24,10,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,DCM,3,21,4,5,Minimum Depression,Fair sleep quality,Moderate
+School of Political Science and laws,PA,1,18,9,6,Mild Depression,Fair sleep quality,Moderate
+School of Management,LGT,2,20,13,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,20,3,7,Minimum Depression,Good sleep quality,Mild
+School of Management,LGT,1,20,6,5,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,3,21,21,7,Serve Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,21,5,5,Minimum Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,3,21,3,3,Minimum Depression,Poor sleep quality,Moderately Serve
+School of Informatics,IMI,3,21,23,5,Serve Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT,3,21,19,6,Moderately Severe Depression,Fair sleep quality,Moderate
+School of Informatics,IMI,1,18,0,8,Minimum Depression,Good sleep quality,Mild
+School of Science,Bio,3,21,4,8,Minimum Depression,Good sleep quality,Mild
+School of Science,Bio,3,22,14,4,Modereate Depression,Fair sleep quality,Moderate
+School of Science,Math,3,21,9,8,Mild Depression,Good sleep quality,Mild
+School of Political Science and laws,POL,2,21,10,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Science,Bio,3,20,12,9,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,20,14,10,Modereate Depression,Excellent,None
+School of Nursing,Nursing,3,21,1,10,Minimum Depression,Excellent,None
+School of Informatics,IMI,3,21,14,7,Modereate Depression,Good sleep quality,Mild
+School of Informatics,MTA,3,21,13,6,Mild Depression,Fair sleep quality,Moderate
+School of Science,Bio ,3,21,13,7,Mild Depression,Good sleep quality,Mild
+School of Liberal Art,Chinese,2,20,14,4,Modereate Depression,Fair sleep quality,Moderate
+School of Science,Math,3,21,3,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI ,3,20,13,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Accountancy and Finance,Econ,2,20,11,8,Mild Depression,Good sleep quality,Mild
+School of Accountancy and Finance,Econ,2,19,2,8,Minimum Depression,Good sleep quality,Mild
+School of Public Health,CPH,3,21,0,9,Minimum Depression,Good sleep quality,Mild
+School of Public Health,CPH,3,21,2,8,Minimum Depression,Good sleep quality,Mild
+School of Public Health,CPH,3,21,7,9,Minimum Depression,Good sleep quality,Mild
+School of Public Health,OCC,3,21,9,7,Mild Depression,Good sleep quality,Mild
+School of Allied Health Sciences,PT,1,18,14,6,Modereate Depression,Fair sleep quality,Moderate
+School of Public Health,OCC,3,21,2,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,1,19,11,4,Mild Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT,3,21,19,7,Moderately Severe Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,20,13,5,Mild Depression,Fair sleep quality,Moderate
+School of Science,Bio,3,21,6,1,Minimum Depression,Poor sleep quality,Moderately Serve
+School of Management,DMB,2,20,20,5,Serve Depression,Fair sleep quality,Moderate
+School of Nursing,Nursing,1,19,11,4,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,ITD,2,20,23,6,Serve Depression,Fair sleep quality,Moderate
+School of Informatics,DCM,1,18,0,9,Minimum Depression,Good sleep quality,Mild
+School of Pharmacy,Pharm,3,21,5,8,Minimum Depression,Good sleep quality,Mild
+School of Informatics,ITD,2,20,0,10,Minimum Depression,Excellent,None
+School of Science,Sci,1,19,2,8,Minimum Depression,Good sleep quality,Mild
+School of Science,Sci,2,20,0,8,Minimum Depression,Good sleep quality,Mild
+School of Management,DMB,1,18,0,9,Minimum Depression,Good sleep quality,Mild
+School of Agricultural Technology and Food Industry,Food Sci,3,21,13,8,Mild Depression,Good sleep quality,Mild
+School of Accountancy and Finance,Bus & Fin,1,19,14,7,Modereate Depression,Good sleep quality,Mild
+School of Political Science and laws,PA,2,21,8,7,Minimum Depression,Good sleep quality,Mild
+School of Nursing,Nursing,3,21,7,8,Minimum Depression,Good sleep quality,Mild
+School of Agricultural Technology and Food Industry,Food Sci,3,21,4,6,Minimum Depression,Fair sleep quality,Moderate
+School of Nursing,Nursing,3,21,4,8,Minimum Depression,Good sleep quality,Mild
+School of Nursing,Nursing,3,22,6,5,Minimum Depression,Fair sleep quality,Moderate
+School of Public Health,OCC,3,21,4,7,Minimum Depression,Good sleep quality,Mild
+School of Management,MKT,1,19,2,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,ITD,1,19,9,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Informatics,DCM,3,21,15,9,Modereate Depression,Good sleep quality,Mild
+School of Management,DMB,1,19,13,7,Mild Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MT,1,19,3,8,Minimum Depression,Good sleep quality,Mild
+School of Management,DMB,2,20,4,7,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,21,2,8,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,21,5,8,Minimum Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,21,5,10,Minimum Depression,Excellent,None
+School of Informatics,IMI,3,21,13,5,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,IMI ,3,21,11,7,Mild Depression,Good sleep quality,Mild
+School of Informatics,IMI,3,21,18,5,Modereate Depression,Fair sleep quality,Moderate
+School of Informatics,IMI ,3,21,10,5,Mild Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MTBP,3,21,12,3,Mild Depression,Poor sleep quality,Moderately Serve
+School of Allied Health Sciences,MTBP,3,21,16,6,Modereate Depression,Fair sleep quality,Moderate
+School of Allied Health Sciences,MT,3,22,10,7,Mild Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MTBP,3,21,0,10,Minimum Depression,Excellent,None
+School of Informatics,IMI,2,21,17,3,Modereate Depression,Poor sleep quality,Moderately Serve
+School of Informatics,IMI,3,20,21,8,Serve Depression,Good sleep quality,Mild
+School of Informatics,MTA,2,20,11,7,Mild Depression,Good sleep quality,Mild
+School of Allied Health Sciences,MTBP ,3,21,12,6,Mild Depression,Fair sleep quality,Moderate
+School of Informatics,MTA,2,20,9,9,Mild Depression,Good sleep quality,Mild
+School of Medicine,SES,2,20,6,5,Minimum Depression,Fair sleep quality,Moderate
+School of Engineering and Technology,COE,3,21,10,6,Mild Depression,Fair sleep quality,Moderate
+School of Political Science and laws,POS,2,21,1,8,Minimum Depression,Good sleep quality,Mild
+School of Engineering and Technology,COE,3,22,21,2,Serve Depression,Poor sleep quality,Moderately Serve
+School of Liberal Art,English,3,22,2,9,Minimum Depression,Good sleep quality,Mild
+School of Liberal Art,English,3,21,8,7,Minimum Depression,Good sleep quality,Mild
+School of Liberal Art,English,3,21,3,7,Minimum Depression,Good sleep quality,Mild
+School of Political Science and laws,PA,3,21,12,8,Mild Depression,Good sleep quality,Mild
+School of Liberal Art,English,3,21,4,8,Minimum Depression,Good sleep quality,Mild
+School of Science,Bio,1,19,24,5,Serve Depression,Fair sleep quality,Moderate
+School of Engineering and Technology,COE,3,21,0,5,Minimum Depression,Fair sleep quality,Moderate
+School of Liberal Art,English,3,21,24,2,Serve Depression,Poor sleep quality,Moderately Serve
+School of Engineering and Technology,COE,3,20,2,7,Minimum Depression,Good sleep quality,Mild
+School of Science,N/A,1,18,8,9,Minimum Depression,Good sleep quality,Mild
+School of Science,Sci,1,18,13,5,Mild Depression,Fair sleep quality,Moderate
+School of Science,Bio,1,19,27,4,Serve Depression,Fair sleep quality,Moderate
+School of Law,Law,1,19,26,4,Serve Depression,Fair sleep quality,Moderate
+School of Science,Sci,1,19,9,8,Mild Depression,Good sleep quality,Mild
+School of Political Science and laws,PA,3,21,2,10,Minimum Depression,Excellent,None
